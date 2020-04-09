@@ -1,7 +1,3 @@
-<div>
-
-
-
 # Gesellschaftsmonitoring COVID19
 
 ## Ziel des Projekts
@@ -23,7 +19,6 @@ Mehr Informationen zu diesem Projekt finden Sie [hier](https://bit.ly/2UbzLdv).
 **wissenschaftliche Projektleitung:** Dr. Peter Moser, Stv. Amtschef Statistisches Amt des Kantons Zürich, Abteilungsleiter Analysen & Studien Tel: 043 259 75 35
 
 **Technische Projektleitung:** Katharina Kälin, wissenschaftliche Mitarbeiterin, Statistisches Amt des Kantons Zürich Tel: 043 259 75 08
-
 
 ## Datenbezug
 
